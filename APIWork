@@ -1,0 +1,4 @@
+1. Required parameter value is Mine = true. (Retrieve the authenticated user's subscriptions)
+Optional parameters - ChannelID parameter (Retrieve subscriptions from another channel)
+
+2. 
